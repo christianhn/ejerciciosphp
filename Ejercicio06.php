@@ -11,4 +11,4 @@ if(isset($_GET) && !empty($_GET)){
 } 
  else { 
      echo "No hemos recibido nada!"; 
-} 
+}
